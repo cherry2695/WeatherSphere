@@ -10,3 +10,8 @@ A smart weather intelligence platform that transforms real-time weather data int
 - 💧 Humidity monitoring
 - 🌬️ Wind speed and direction tracking
 - 🌅 Sunrise and sunset information
+
+## 🛠️ Tech Stack
+
+- Frontend : React, TypeScript (TSX),Tailwind CSS
+- Backend : Node.js Express.js
