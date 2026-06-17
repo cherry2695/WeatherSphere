@@ -1,0 +1,10 @@
+{
+  "name": "WeatherSphere",
+  "description": "Premium Apple Weather inspired dashboard presenting real-time intelligence, interactive maps, and AI briefings.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
