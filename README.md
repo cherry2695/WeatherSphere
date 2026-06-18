@@ -20,4 +20,3 @@ A smart weather intelligence platform that transforms real-time weather data int
 - Icons : Lucide React
 - Notifications : Sonner
 - API : Open Weather API Key
->>>>>>> 4df6662ff27c0d7503b5bdd5918f4873ffb5a185
