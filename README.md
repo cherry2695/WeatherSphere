@@ -14,7 +14,6 @@ A smart weather intelligence platform that transforms real-time weather data int
 ## 🛠️ Tech Stack
 
 - Frontend : React, TypeScript (TSX),Tailwind CSS
-- Backend : Node.js
 - Map Integration : Leaflet.js
 - Charts & Visualization : Recharts
 - Icons : Lucide React
