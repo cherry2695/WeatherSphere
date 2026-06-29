@@ -18,3 +18,21 @@ A smart weather intelligence platform that transforms real-time weather data int
 - Charts & Visualization : Recharts
 - Icons : Lucide React
 - API : Open Weather API Key
+
+## 📸 Project Screenshots
+
+### 🏠 Weather Dashboard
+
+![Dashboard](./src/assets/images/WeatherSphere_Dashboard.png)
+
+---
+
+### 🗺️ Interactive Weather Map
+
+![Map](./src/assets/images/WeatherSphere_Maps.png)
+
+---
+
+### 📊 Weather Analytics
+
+![Analytics](./src/assets/images/Weathersphere_Analytics.png)
